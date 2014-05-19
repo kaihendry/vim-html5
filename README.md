@@ -2,5 +2,8 @@
 
 # Dependencies
 
-* An internet connection, since file is uploaded is <http://jslint.dabase.com> & <http://validator.nu> services
-* shell, curl, sed
+* [Pathogen](https://github.com/tpope/vim-pathogen)
+
+# Install
+
+	git clone https://github.com/kaihendry/vim-html5.git ~/.vim/bundle/vim-html5
