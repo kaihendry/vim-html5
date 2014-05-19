@@ -2,7 +2,12 @@
 
 # Dependencies
 
+* vim, curl
 * [Pathogen](https://github.com/tpope/vim-pathogen)
+
+# Optional
+
+* npm install -g jshint jsfmt csslint
 
 # Install
 
